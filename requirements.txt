@@ -30,4 +30,4 @@ unsloth        # 특정 기능에 대한 라이브러리 (추가 정보 필요�
 
 
 
-# pip install -U -q -r requirements.txt
+ # pip install -Uq peft datasets bitsandbytes transformers unsloth rouge-score rouge evaluate
